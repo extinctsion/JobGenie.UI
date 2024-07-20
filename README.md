@@ -41,12 +41,12 @@
 
 
 
-Run using -> 
+#### Run using -> 
 
-npm i --legacy-peer-deps
-npm audit fix --force
-npm start
-
+<p>npm i --legacy-peer-deps</p>
+<p>npm audit fix --force</p>
+<p>npm start</p>
+<br/>
 Thank You !
 
 Have a nice Day :hugs:
